@@ -46,13 +46,23 @@ The rules are simple:
 
 ## Screenshots
 
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="screenshots/photo_1.jpg" width="200" alt="Welcome Screen" />
-  <img src="screenshots/photo_2.jpg" width="200" alt="Share Dialog" />
-  <img src="screenshots/photo_3.jpg" width="200" alt="Gameplay Start" />
-  <img src="screenshots/photo_4.jpg" width="200" alt="Game in Progress" />
-  <img src="screenshots/photo_5.jpg" width="200" alt="Mid Game" />
-  <img src="screenshots/photo_6.jpg" width="200" alt="Player X Wins" />
+  <img src="screenshots/Screenshot 2026-01-06 051711.png" width="200" alt="Welcome Screen" />
+  <img src="screenshots/Screenshot 2026-01-06 051720.png" width="200" alt="Share Dialog" />
+  <img src="screenshots/Screenshot 2026-01-06 051731.png" width="200" alt="Gameplay Start" />
+  <img src="screenshots/Screenshot 2026-01-06 051740.png" width="200" alt="Game in Progress" />
+  <img src="screenshots/Screenshot 2026-01-06 051758.png" width="200" alt="Mid Game" />
+  <img src="screenshots/Screenshot 2026-01-06 051807.png" width="200" alt="Player X Wins" />
+   <img src="screenshots/Screenshot 2026-01-06 051826.png" width="200" alt="Player O Wins" />
+   <img src="screenshots/Screenshot 2026-01-06 051851.png" width="200" alt="Draw" />
 </p>
 
 ## Game Features in Detail
